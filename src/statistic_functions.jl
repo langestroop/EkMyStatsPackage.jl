@@ -56,4 +56,5 @@ length(StatResult2(2:15))
 
 function printOwner()
     println("My GitHub user name is: emanuel-kopp")
+    print("WATCHOUT: this package has been invaded")
 end
